@@ -1,2 +1,2 @@
-# GFG
+# Coding Platforms-02
 Solutions of coding problems.....
